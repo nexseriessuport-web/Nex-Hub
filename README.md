@@ -11,7 +11,7 @@ will like this script
 this tooked me 2 days or 3 to make
 
 here is the script btw this is an universal script so u can use it to the games that Is supported
-loadstring(game:HttpGet("https://pastebin.com/raw/3v3LmTqa"))()
+loadstring(game:HttpGet("https://nexobsufacator.base44.app/functions/loader?id=6abf53376d310a3949a6156a"))()
 
 # Enjoy 😋😎❤️👍
 
